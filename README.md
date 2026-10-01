@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTEzeG1sYWs1ZDVkY3JnMHZxcnNweWtuZjR1NmFncnNnZWJ3MDF0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ClEF7zMPIiB0Hgt936/giphy.gif" alt="Worm de Propagação em C" width="900">
+  <img src="worm_deathcode0x.gif" alt="Worm de Propagação em C" width="900">
 </p>
 
 
